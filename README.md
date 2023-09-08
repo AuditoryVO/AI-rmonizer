@@ -1,4 +1,5 @@
 # AI-rmonizer
+Stellar spectra-driven unsupervised music composition system
 ![Screen Shot 2023-09-08 at 00 23 35](https://github.com/AuditoryVO/AI-rmonizer/assets/144262864/0bb312df-83a5-4776-aa24-1d5c78dc65c7)
 CONTENTS
 
