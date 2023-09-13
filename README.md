@@ -1,5 +1,5 @@
 # AI-rmonizer
-Pre-trained stellar spectra-driven unsupervised music composition system.
+Stellar spectra-driven unsupervised music composition system.
 
 CONTENTS
 
