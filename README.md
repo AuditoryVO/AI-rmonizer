@@ -3,10 +3,10 @@ Stellar spectra-driven unsupervised music composition system.
 ![AIRMONIES-GitHub](https://github.com/AuditoryVO/AI-rmonizer/assets/144262864/84691096-eb8a-4334-9c5c-3acafd478fce)
 
 CONTENTS
-- Jupyter notebook 1: 1-DeepVAE_4dim.ipynb
-- Jupyter notebook 2: 2-Latent2Chords_4dim.ipynb
-- Jupyter notebook 3: 3-MAESTRO2numpy.ipynb
-- Jupyter notebook 4: 4-AI-rmonizer_Demo.ipynb
+- Jupyter notebook 1-DeepVAE_4dim.ipynb
+- Jupyter notebook 2-Latent2Chords_4dim.ipynb
+- Jupyter notebook 3-MAESTRO2numpy.ipynb
+- Jupyter notebook 4-AI-rmonizer_Demo.ipynb
 - LICENSE
 - README
 - requirements.txt
